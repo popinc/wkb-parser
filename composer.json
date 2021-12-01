@@ -1,5 +1,5 @@
 {
-    "name": "geo-io/wkb-parser",
+    "name": "popinc/wkb-parser",
     "description": "Well-known binary (WKB) Parser.",
     "keywords": [
         "geo",
